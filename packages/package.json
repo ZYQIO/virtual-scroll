@@ -1,0 +1,20 @@
+{
+  "name": "virtual-scr-list",
+  "version": "1.0.1",
+  "description": "一个vue的大数据虚拟滚动列表...",
+  "main": "virtual-scroll-list.umd.min.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "vue",
+    "js",
+    "html",
+    "virtual",
+    "virtual-scr",
+    "virtual-scr-list"
+  ],
+  "author": "ZYQ|<13477681517@163.com>",
+  "license": "ISC",
+  "dependencies": {}
+}
