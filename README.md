@@ -59,5 +59,10 @@ Vue.use(VirtualScroll)
 | `oneHeight`   | Number | 单条数据的高度. |
 | `url`         | String | 请求url. |
 
-## 这个demo需要配合 my-mock demo才可以演示
+## 这个demo需要配合 mock data 才可以演示
 
+## mock data 线上访问
+| **&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Prop&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;** | **Type**  | **Description**                                                               |
+|------------------|------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| `num`       | Number | 请求参数. |
+| `url`         | String | 请求 url (default: 10)： http://81.71.85.171:3000 | 
